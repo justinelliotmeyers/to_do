@@ -9,6 +9,6 @@ ia_palo_alto (3pm)
 mo_new_madrid
 me_biddeford (york)
 
+https://mega.nz/folder/z9RygKjS#duPXBgGVKKwLilX_CrmcrA
 
-https://u.pcloud.link/publink/show?code=kZ3b6P5ZH2LpgoF7KPy5rl5bu22UXkKT4PGk
-https://u.pcloud.link/publink/show?code=kZ3b6P5ZH2LpgoF7KPy5rl5bu22UXkKT4PGk
+LENGTH_MILES > 100 And FROM_DEST IS NULL And JYEAR = 2025
